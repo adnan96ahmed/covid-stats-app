@@ -1,4 +1,4 @@
-This is a simple browswer-based application that lists the 
+This is a simple browser-based application that lists the 
 10 countries with the most Covid-19 cases using the api
 provided on https://covid19api.com/. You can click on any 
 country listed to show more information for it.
