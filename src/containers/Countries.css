@@ -1,0 +1,10 @@
+.Countries {
+    text-align: center;
+}
+
+.Countries ol{
+    width: 25%;
+    margin: auto;
+    padding: 16px 32px;
+    border: 1px solid #eee;
+}
